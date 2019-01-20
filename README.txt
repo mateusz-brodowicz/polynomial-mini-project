@@ -1,0 +1,2 @@
+This simple project is focused on finding the derivative of a randomly generated function, looking for it's stationary points
+and creating a visual intuition behind it's definite integral as a area underneath the curve
